@@ -1,11 +1,22 @@
 import requests
 import json
-import operator
+import csv
 
-itemName = "Exquisite Rack"
-itemInput = ""
-space = operator.indexOf(itemName, " ")
-itemInput = itemName[0:space] + "%20" +itemName[space + 1:len(itemName)]
+fileName = "IA2.csv"
+fields = []
+rows = []
+
+f = open(fileName, "r")
+nameList = []
+data = csv.reader(f)
+for row in data:
+        nameList.append(row[0])
+print(nameList[1:10])
+
+itemName = nameList[5]
+space = " "
+spaceURL = "%20"
+itemInput = itemName.replace(space, spaceURL)
 print(itemInput)
 API_KEY = "63770fa41ddd970aef0e4ffe"
 url = "https://backpack.tf/api/IGetPriceHistory/v1?item=" + itemInput + "&quality=Unique&tradable=Tradable&craftable=Craftable&priceindex=0&key=" + API_KEY
@@ -17,4 +28,10 @@ data = json.loads(outData)
 print(outData)
 with open("output.json", "w", encoding = "utf-8") as file:
         json.dump(response.json(), file, indent=4, sort_keys=True)
-print(data["response"]["history"][100]["timestamp"])
+print(data["response"]["history"]["timestamp"])
+
+
+
+
+
+
