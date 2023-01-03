@@ -3,213 +3,159 @@
         "history": [
             {
                 "currency": "metal",
-                "timestamp": 1357392095,
-                "value": 5,
-                "value_high": 5
+                "timestamp": 1523367869,
+                "value": 1.66,
+                "value_high": 2.66
             },
             {
                 "currency": "metal",
-                "timestamp": 1358493960,
-                "value": 4,
-                "value_high": 4
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1359347135,
-                "value": 3,
-                "value_high": 3.66
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1361457868,
-                "value": 3,
-                "value_high": 3
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1362712291,
+                "timestamp": 1524873945,
                 "value": 2,
                 "value_high": 2.66
             },
             {
                 "currency": "metal",
-                "timestamp": 1363449844,
+                "timestamp": 1528019989,
                 "value": 2,
-                "value_high": 2.33
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1364019702,
-                "value": 2,
-                "value_high": 2
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1364580459,
-                "value": 1.77,
-                "value_high": 2
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1364855046,
-                "value": 1.66,
-                "value_high": 2
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1367077115,
-                "value": 1.55,
-                "value_high": 1.77
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1368646003,
-                "value": 1.66,
-                "value_high": 1.66
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1382851082,
-                "value": 1.33,
-                "value_high": 1.66
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1387173948,
-                "value": 1.33,
-                "value_high": 1.33
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1425189122,
-                "value": 2,
-                "value_high": 2
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1428771809,
-                "value": 1.88,
-                "value_high": 1.88
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1428903614,
-                "value": 1.88,
-                "value_high": 2
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1429117379,
-                "value": 1.77,
-                "value_high": 1.77
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1433477661,
-                "value": 1.66,
-                "value_high": 2
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1437523120,
-                "value": 1.55,
-                "value_high": 1.66
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1439996850,
-                "value": 1.55,
-                "value_high": 1.55
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1456383551,
-                "value": 1.66,
-                "value_high": 1.66
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1459299914,
-                "value": 1.44,
-                "value_high": 1.44
-            },
-            {
-                "currency": "hat",
-                "timestamp": 1463442317,
-                "value": 1,
-                "value_high": 1
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1506224860,
-                "value": 1.22,
-                "value_high": 1.33
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1535358942,
-                "value": 1.33,
-                "value_high": 1.44
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1542936439,
-                "value": 1.77,
                 "value_high": 2.22
             },
             {
                 "currency": "metal",
-                "timestamp": 1584552201,
-                "value": 1.33,
-                "value_high": 1.55
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1597987564,
-                "value": 1.44,
-                "value_high": 1.55
-            },
-            {
-                "currency": "metal",
-                "timestamp": 1612691495,
+                "timestamp": 1530961717,
                 "value": 1.55,
-                "value_high": 1.66
+                "value_high": 2
             },
             {
                 "currency": "metal",
-                "timestamp": 1614635319,
-                "value": 1.33,
-                "value_high": 1.44
+                "timestamp": 1534221699,
+                "value": 2,
+                "value_high": 2.11
             },
             {
                 "currency": "metal",
-                "timestamp": 1626306716,
-                "value": 1.44,
-                "value_high": 1.55
+                "timestamp": 1536857871,
+                "value": 2.22,
+                "value_high": 2.55
             },
             {
                 "currency": "metal",
-                "timestamp": 1632598626,
-                "value": 1.55,
-                "value_high": 1.66
+                "timestamp": 1537546122,
+                "value": 2.22,
+                "value_high": 2.33
             },
             {
                 "currency": "metal",
-                "timestamp": 1634445029,
-                "value": 1.66,
-                "value_high": 1.77
+                "timestamp": 1547737334,
+                "value": 2.44,
+                "value_high": 2.55
             },
             {
                 "currency": "metal",
-                "timestamp": 1664807701,
-                "value": 1.44,
-                "value_high": 1.77
+                "timestamp": 1551600765,
+                "value": 2.77,
+                "value_high": 2.88
             },
             {
                 "currency": "metal",
-                "timestamp": 1668532388,
-                "value": 1.77,
-                "value_high": 1.88
+                "timestamp": 1555968914,
+                "value": 3.11,
+                "value_high": 3.33
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1587050465,
+                "value": 3,
+                "value_high": 3.11
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1599865076,
+                "value": 3.55,
+                "value_high": 3.66
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1608800702,
+                "value": 3.22,
+                "value_high": 3.33
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1619258886,
+                "value": 3.33,
+                "value_high": 3.44
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1623537160,
+                "value": 3.66,
+                "value_high": 3.77
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1627161192,
+                "value": 3.44,
+                "value_high": 3.55
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1633087033,
+                "value": 3.44,
+                "value_high": 3.77
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1639499100,
+                "value": 2.33,
+                "value_high": 3.11
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1641088387,
+                "value": 2.55,
+                "value_high": 3.11
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1643058104,
+                "value": 3.44,
+                "value_high": 3.55
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1647512197,
+                "value": 4.44,
+                "value_high": 4.55
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1651835728,
+                "value": 4.88,
+                "value_high": 5
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1664525647,
+                "value": 3.66,
+                "value_high": 4.44
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1670213675,
+                "value": 3,
+                "value_high": 3.22
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1671268618,
+                "value": 2.88,
+                "value_high": 3.11
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1672688430,
+                "value": 3.44,
+                "value_high": 3.55
             }
         ],
         "success": 1
