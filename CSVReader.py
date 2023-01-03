@@ -1,1 +1,0 @@
-nameList = ["Bonk Boy", "Trucker's Topper"]
