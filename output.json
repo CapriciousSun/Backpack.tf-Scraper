@@ -240,6 +240,12 @@
                 "timestamp": 1669942331,
                 "value": 1,
                 "value_high": 1
+            },
+            {
+                "currency": "metal",
+                "timestamp": 1673396079,
+                "value": 1.44,
+                "value_high": 1.55
             }
         ],
         "success": 1
